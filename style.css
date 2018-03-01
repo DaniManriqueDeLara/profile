@@ -1,0 +1,159 @@
+
+/**
+h1 {
+  color: #7A6DBA;
+}
+
+a {
+ text-decoration: none;
+ text-align: center;
+}
+a:hover {color: #f4a941;  }
+
+body {
+  color: #8E8F8F;
+  background-color: #C4C8CA;
+  background-image: url("https://orig00.deviantart.net/6f10/f/2007/342/9/3/led_zeppelin_background_by_infamegraphix.jpg");
+  text-align: center;
+  font-family: Times, sans-serif;
+}
+.image-circle {
+  border-radius: 106px 106px 106px 106px;
+  margin-top: 15px;
+}
+.card {
+  width: 500px;
+  background-color: #ffffff;
+  box-shadow: 4px 4px 5px -2px rgba(0,0,0,0.27);
+  border-radius: 10px;
+}
+.links {
+  background-color: #ffffff;
+  box-shadow: 4px 4px 5px -2px rgba(0,0,0,0.27);
+  border-radius: 10px;
+}
+
+.container {
+}
+
+.movies {
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-left: 70px;
+  background-color: #ffffff;
+  box-shadow: 4px 4px 5px -2px rgba(0,0,0,0.27);
+  border-radius: 13px;
+  margin-top: 20px;
+
+}
+.abouts {
+  background-color: #ffffff;
+  box-shadow: 4px 4px 72px -2px rgba(0,0,0,0.27);
+  border-radius: 70px;
+  margin-top: 20px;
+}
+.links {
+display: inline block;
+padding: 20px;
+margin-top: 15px;
+margin-left: 150px;
+margin-right: 150px;
+margin-bottom: 15px;
+}
+  width: 500px;   /* This sets the width */
+ /* margin: 0 auto; /* This automatically sets left/right margins */
+#box {
+
+}
+a:hover {color: #f4a941;  }
+
+.button {
+
+}
+
+h2 .subtitle {
+
+}
+**/
+body {
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #424242;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-weight: normal;
+  color: #757575;
+}
+.links {
+  text-align: center;
+}
+.image-circle {
+  border-radius: 106px 106px 106px 106px;
+  margin-top: 15px;
+}
+
+.banner {
+  background-image: url("https://unsplash.it/1007x500");
+  padding: 150px 0;
+  background-size: cover;
+  background-position: top;
+  color: white;
+}
+
+.container {
+  width: 700px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+.banner p {
+  font-style: italic;
+  font-size: 24px;
+  opacity: 0.8;
+}
+
+.link-medium {
+  font-size: 24px;
+  font-style: italic;
+  text-decoration: none;
+  color: #616161;
+  background-color: #B9F6CA;
+}
+
+.link-medium:hover {
+  background-color: #69F0AE;
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 600px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .container {
+    width: 400px;
+  }
+}
+.links {
+  background-color: #ffffff;
+  box-shadow: 0px 1px 0px 2px rgba(0,0,0,0.75);
+  border-radius: 10px;
+}
+.container {
+  box-shadow: 0px 1px 0px 2px rgba(0,0,0,0.45);
+  border-radius: 13px;
+}
+
+
+
